@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @14anirudh
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science and AI
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on any project on ML
 - 📫 reach me through my mail anirudhgautam987@gmail.com
