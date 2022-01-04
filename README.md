@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @14anirudh
-- 👀 I’m interested in data science and AI
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on any project on ML
+- 👀 I’m interested in data science and AI and web development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on any project on ML or any web dev project
 - 📫 reach me through my mail anirudhgautam987@gmail.com
 
 <!---
