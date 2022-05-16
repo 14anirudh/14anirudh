@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @14anirudh
 - 👀 I’m interested in web development and machine learning
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on any project on webD and ML
 - 📫 reach me through my mail anirudhgautam987@gmail.com
 
