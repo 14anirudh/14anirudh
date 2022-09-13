@@ -14,5 +14,4 @@ I'm currently learning NEXTJs
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=14anirudh&icon=2&color=3)](https://visitcount.itsvg.in)
+
