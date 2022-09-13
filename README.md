@@ -1,7 +1,12 @@
 # 💫 About Me:
-I'm Anirudh Gautam
-I'm currently learning NEXTJs
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a Software Engineer and passionately coding for building web applications.
 
+- :seedling: Exploring NextJs.
+
+- :zap: In my free time, I read tech and financial articles.
+
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](anirudhgautam987@gmail.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/gautamanirudh/) 
